@@ -42,8 +42,8 @@ The analysis is powered by **7 comprehensive data files**, including:
 
 * **Processed and analyzed large-scale fleet data** using Spark, Impala, and Hive on the Hadoop cluster.
 * **Integrated HDFS with Tableau** using JDBC drivers for interactive data exploration.
-* **Built 15+ live dashboards** to visualize critical metrics—mileage, gas usage, risk scores, violations—enabling real-time identification of high-risk drivers and trucks.
-* **Uncovered actionable insights**: Mapped violation hotspots, identified hazardous truck models, and provided granular visibility into driver risk—helping inform targeted safety programs.
+* **Built 15+ live dashboards** to visualize critical metrics-mileage, gas usage, risk scores, violations-enabling real-time identification of high-risk drivers and trucks.
+* **Uncovered actionable insights**: Mapped violation hotspots, identified hazardous truck models, and provided granular visibility into driver risk-helping inform targeted safety programs.
 
 ---
 
