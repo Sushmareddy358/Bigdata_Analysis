@@ -1,6 +1,6 @@
 # 🚚 Truck Fleet Risk Analysis & Visualization
 
-Welcome to the **Truck Fleet Risk Analysis & Visualization** project—a deep dive into real-world trucking data for smarter fleet management and risk reduction!
+Welcome to the **Truck Fleet Risk Analysis & Visualization** project-a deep dive into real-world trucking data for smarter fleet management and risk reduction!
 
 ---
 
