@@ -61,5 +61,3 @@ This project empowers fleet managers to:
 **Skills demonstrated:**
 HDFS • Impala • Hive • HiveQL • Tableau • JDBC • Data Visualization • Big Data Analytics
 
-
-Let me know if you want a version with screenshots or links to sample dashboards—these make the README even stronger!
